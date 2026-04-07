@@ -1,7 +1,12 @@
 aid: healthsouth
-url: https://raw.githubusercontent.com/api-evangelist/healthsouth/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/healthsouth/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.healthsouth.com
+description: >-
+  HealthSouth (now Encompass Health) is one of the largest providers of post-acute
+  healthcare services in the United States, operating inpatient rehabilitation hospitals
+  and home health and hospice agencies.
