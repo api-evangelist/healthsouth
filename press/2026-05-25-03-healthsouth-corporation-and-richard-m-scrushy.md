@@ -1,7 +1,9 @@
 ---
 title: HealthSouth Corporation and Richard M. Scrushy
 url: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18044
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HealthSouth" press release artificial intelligence'
 position: 3
 source: serpapi-google

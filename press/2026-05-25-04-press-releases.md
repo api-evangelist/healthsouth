@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://www.ftc.gov/news-events/news/press-releases?initialSessionID=141-6658956-0138904&ld=ASXXSCTUSDirect&page=549
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HealthSouth" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: HealthSouth is now Encompass Health
 url: https://www.beckershospitalreview.com/hospital-management-administration/healthsouth-is-now-encompass-health/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HealthSouth" press release artificial intelligence'
 position: 5
 source: serpapi-google

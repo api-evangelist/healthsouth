@@ -1,7 +1,9 @@
 ---
 title: HealthSouth Corporation Announces Planned Name ...
 url: https://www.prnewswire.com/news-releases/healthsouth-corporation-announces-planned-name-change-to-encompass-health-corporation-300485310.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HealthSouth" press release artificial intelligence'
 position: 1
 source: serpapi-google
