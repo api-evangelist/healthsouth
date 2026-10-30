@@ -66,42 +66,78 @@
 
 HealthSouth, rebranded as Encompass Health in 2018, is one of the largest providers of post-acute healthcare services in the United States, operating inpatient rehabilitation hospitals across the country. The company focuses on rehabilitation services for stroke, neurological conditions, spinal cord injuries, and orthopedic conditions. No public developer APIs have been identified.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/healthsouth/refs/heads/main/apis.yml)
+**Areas:** Healthcare · Hospitals · Post-Acute Care · Rehabilitation · Fortune 1000
 
-## Scope
+## HealthSouth (Encompass Health) on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for HealthSouth (Encompass Health) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/healthsouth/](https://apis.io/providers/healthsouth/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Healthcare, Hospitals, Post-Acute Care, Rehabilitation
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2025
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Healthsouth Domain Security](https://apis.io/security/healthsouth/healthsouth-domain-security/)
 
-No public APIs have been documented. Encompass Health does not appear to publish a developer portal or external APIs.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.encompasshealth.com)
-- [LegacyWebsite](https://www.healthsouth.com)
-- [About](https://www.encompasshealth.com/about)
-- [Locations](https://www.encompasshealth.com/find-a-location)
-- [Newsroom](https://www.encompasshealth.com/newsroom)
-- [InvestorRelations](https://investor.encompasshealth.com)
-- [Careers](https://careers.encompasshealth.com)
-- [Contact](https://www.encompasshealth.com/about/contact-us)
-- [PrivacyPolicy](https://www.encompasshealth.com/privacy-policy)
-- [Accessibility](https://www.encompasshealth.com/accessibility)
+- [Privacy policy](https://www.encompasshealth.com/privacy-policy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 6.4** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/healthsouth/](https://apis.io/providers/healthsouth/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HealthSouth (Encompass Health): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/healthsouth/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
